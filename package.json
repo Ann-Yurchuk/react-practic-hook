@@ -2,7 +2,7 @@
   "name": "react-practic-hook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ann-yurchuk.github.io/react-practic-hook/",
+  "homepage": "https://Ann-Yurchuk.github.io/react-practic-hook/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
